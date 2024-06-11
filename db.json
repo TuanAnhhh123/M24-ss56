@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "trâm",
+      "id": 2
+    },
+    {
+      "name": "trang",
+      "address": "hcm",
+      "id": 3
+    },
+    {
+      "name": "thu",
+      "id": 4
+    },
+    {
+      "name": "nam",
+      "address": "hn",
+      "id": 5
+    },
+    {
+      "name": "phương anh",
+      "id": 6
+    },
+    {
+      "name": "thu hà",
+      "id": 7
+    },
+    {
+      "name": "lâm nhi",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "title": "",
+      "thumbnail": "",
+      "created_at": "",
+      "created_by": "",
+      "user-id": "1",
+      "comment": [],
+      "id": 1
+    }
+
+  ]
+}
